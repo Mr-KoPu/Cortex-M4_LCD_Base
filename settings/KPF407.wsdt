@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>KPF407/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>272</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1155</ColumnWidth1><ColumnWidth2>308</ColumnWidth2><ColumnWidth3>77</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1541</ColumnWidth1></Debug-Log>
+      <TerminalIO/>
+      <Find-All-Declarations>
+        
+        
+        
+      <ColumnWidth0>552</ColumnWidth0><ColumnWidth1>78</ColumnWidth1><ColumnWidth2>946</ColumnWidth2></Find-All-Declarations>
+      <Find-in-Files>
+        
+        
+        
+        
+      <ColumnWidth0>473</ColumnWidth0><ColumnWidth1>78</ColumnWidth1><ColumnWidth2>710</ColumnWidth2><ColumnWidth3>315</ColumnWidth3></Find-in-Files>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18-12495</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-21641-13317</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-21203-20694</Identity>
+            <TabName>Find All Declarations</TabName>
+            <Factory>Find-All-Declarations</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-14284-2589</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-13505-8810</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>KPF407</ExpandedNode><ExpandedNode>KPF407/CMIS</ExpandedNode><ExpandedNode>KPF407/Driver</ExpandedNode><ExpandedNode>KPF407/Driver/TFT_LCD</ExpandedNode><ExpandedNode>KPF407/Startup</ExpandedNode><ExpandedNode>KPF407/User</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>40</SelStart2><SelEnd2>40</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\bsp.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>17</YPos2><SelStart2>1084</SelStart2><SelEnd2>1084</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\bsp_tft_lcd.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>50</YPos2><SelStart2>2119</SelStart2><SelEnd2>2119</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\LCD_RA8875.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1600</YPos2><SelStart2>52336</SelStart2><SelEnd2>52336</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\bsp_ra8875_flash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>527</SelStart2><SelEnd2>527</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\LCD_SPFD5420.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1066</YPos2><SelStart2>33068</SelStart2><SelEnd2>33068</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\ra8875_flash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1062</YPos2><SelStart2>28150</SelStart2><SelEnd2>28150</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\bsp_ra8875_port.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>255</YPos2><SelStart2>7125</SelStart2><SelEnd2>7125</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Driver\src\bsp_spi_flash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>825</YPos2><SelStart2>25694</SelStart2><SelEnd2>25694</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\fonts\asc12.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>254</SelStart2><SelEnd2>254</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\fonts\asc16.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>289</SelStart2><SelEnd2>289</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\fonts\fonts.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>245</SelStart2><SelEnd2>245</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\fonts\hz12.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>268</SelStart2><SelEnd2>268</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\fonts\hz16.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>268</SelStart2><SelEnd2>268</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\param.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>85</YPos2><SelStart2>2840</SelStart2><SelEnd2>2840</SelEnd2></Tab><ActiveTab>14</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-002749e0><key>iaridepm.enu1</key></Toolbar-002749e0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>534</Bottom><Right>363</Right><x>-2</x><y>-2</y><xscreen>365</xscreen><yscreen>417</yscreen><sizeHorzCX>228125</sizeHorzCX><sizeHorzCY>509780</sizeHorzCY><sizeVertCX>228125</sizeVertCX><sizeVertCY>655257</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>239</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>241</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>294621</sizeHorzCY><sizeVertCX>228125</sizeVertCX><sizeVertCY>509780</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
